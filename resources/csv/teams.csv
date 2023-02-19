@@ -1,0 +1,252 @@
+id,name,code,league_id,league_name,league_season,venue_id,venue_name,venue_capacity
+77,Angers,ANG,61,Ligue 1,2022,634,Stade Raymond-Kopa,17835
+79,Lille,LIL,61,Ligue 1,2022,19207,Decathlon Arena – Stade Pierre-Mauroy,50083
+80,Lyon,LYO,61,Ligue 1,2022,666,Groupama Stadium,61556
+81,Marseille,MAR,61,Ligue 1,2022,12678,Stade Orange Vélodrome,67394
+82,Montpellier,MON,61,Ligue 1,2022,660,Stade de la Mosson,32939
+83,Nantes,NAN,61,Ligue 1,2022,662,Stade de la Beaujoire - Louis Fonteneau,38285
+84,Nice,NIC,61,Ligue 1,2022,663,Allianz Riviera,35624
+85,Paris Saint Germain,PAR,61,Ligue 1,2022,671,Parc des Princes,47929
+91,Monaco,MON,61,Ligue 1,2022,659,Stade Louis II,18523
+93,Reims,REI,61,Ligue 1,2022,674,Stade Auguste-Delaune II,21684
+94,Rennes,REN,61,Ligue 1,2022,680,Roazhon Park,31127
+95,Strasbourg,STR,61,Ligue 1,2022,681,Stade de la Meinau,26109
+96,Toulouse,TOU,61,Ligue 1,2022,682,Stadium de Toulouse,33150
+97,Lorient,LOR,61,Ligue 1,2022,656,Stade Yves Allainmat - Le Moustoir,18970
+98,Ajaccio,AJA,61,Ligue 1,2022,632,Stade François Coty,10660
+99,Clermont Foot,CLE,61,Ligue 1,2022,644,Stade Gabriel Montpied,12306
+106,Stade Brestois 29,BRE,61,Ligue 1,2022,641,Stade Francis-Le Blé,15931
+108,Auxerre,AUX,61,Ligue 1,2022,636,Stade de l'Abbé Deschamps,23467
+110,Estac Troyes,TRO,61,Ligue 1,2022,684,Stade de l'Aube,21877
+116,Lens,LEN,61,Ligue 1,2022,654,Stade Bollaert-Delelis,41233
+33,Manchester United,MUN,39,Premier League,2022,556,Old Trafford,76212
+34,Newcastle,NEW,39,Premier League,2022,562,St. James' Park,52389
+35,Bournemouth,BOU,39,Premier League,2022,504,Vitality Stadium,12000
+36,Fulham,FUL,39,Premier League,2022,535,Craven Cottage,25700
+39,Wolves,WOL,39,Premier League,2022,600,Molineux Stadium,32050
+40,Liverpool,LIV,39,Premier League,2022,550,Anfield,55212
+41,Southampton,SOU,39,Premier League,2022,585,St. Mary's Stadium,32689
+42,Arsenal,ARS,39,Premier League,2022,494,Emirates Stadium,60383
+45,Everton,EVE,39,Premier League,2022,8560,Goodison Park,40569
+46,Leicester,LEI,39,Premier League,2022,547,King Power Stadium,34310
+47,Tottenham,TOT,39,Premier League,2022,593,Tottenham Hotspur Stadium,62850
+48,West Ham,WES,39,Premier League,2022,598,London Stadium,62500
+49,Chelsea,CHE,39,Premier League,2022,519,Stamford Bridge,41841
+50,Manchester City,MAC,39,Premier League,2022,555,Etihad Stadium,55097
+51,Brighton,BRI,39,Premier League,2022,508,The American Express Community Stadium,31800
+52,Crystal Palace,CRY,39,Premier League,2022,525,Selhurst Park,26309
+55,Brentford,BRE,39,Premier League,2022,10503,Gtech Community Stadium,17250
+63,Leeds,LEE,39,Premier League,2022,546,Elland Road,40204
+65,Nottingham Forest,NOT,39,Premier League,2022,566,The City Ground,30576
+66,Aston Villa,AST,39,Premier League,2022,495,Villa Park,42788
+157,Bayern Munich,BAY,78,Bundesliga,2022,700,Allianz Arena,75000
+159,Hertha Berlin,HER,78,Bundesliga,2022,694,Olympiastadion Berlin,77116
+160,SC Freiburg,FRE,78,Bundesliga,2022,12717,Europa-Park Stadion,34700
+161,VfL Wolfsburg,WOL,78,Bundesliga,2022,752,VOLKSWAGEN ARENA,30000
+162,Werder Bremen,WER,78,Bundesliga,2022,755,wohninvest WESERSTADION,42358
+163,Borussia Monchengladbach,MOE,78,Bundesliga,2022,703,Stadion im BORUSSIA-PARK,54057
+164,FSV Mainz 05,MAI,78,Bundesliga,2022,11899,MEWA ARENA,34034
+165,Borussia Dortmund,DOR,78,Bundesliga,2022,19381,SIGNAL IDUNA PARK,81365
+167,1899 Hoffenheim,HOF,78,Bundesliga,2022,724,PreZero Arena,30164
+168,Bayer Leverkusen,BAY,78,Bundesliga,2022,699,BayArena,30210
+169,Eintracht Frankfurt,EIN,78,Bundesliga,2022,10491,Deutsche Bank Park,52300
+170,FC Augsburg,AUG,78,Bundesliga,2022,698,WWK Arena,30662
+172,VfB Stuttgart,STU,78,Bundesliga,2022,750,Mercedes-Benz-Arena,60469
+173,RB Leipzig,LEI,78,Bundesliga,2022,738,Red Bull Arena,47069
+174,FC Schalke 04,SCH,78,Bundesliga,2022,741,VELTINS-Arena,62271
+176,VfL BOCHUM,BOC,78,Bundesliga,2022,751,Vonovia Ruhrstadion,30748
+182,Union Berlin,UNI,78,Bundesliga,2022,748,Stadion An der Alten Försterei,22467
+192,FC Koln,KOL,78,Bundesliga,2022,731,RheinEnergieStadion,50076
+487,Lazio,LAZ,135,Serie A,2022,910,Stadio Olimpico,68530
+488,Sassuolo,SAS,135,Serie A,2022,935,MAPEI Stadium - Città del Tricolore,23717
+489,AC Milan,MIL,135,Serie A,2022,907,Stadio Giuseppe Meazza,80018
+492,Napoli,NAP,135,Serie A,2022,11904,Stadio Diego Armando Maradona,60240
+494,Udinese,UDI,135,Serie A,2022,928,Dacia Arena,25952
+496,Juventus,JUV,135,Serie A,2022,909,Allianz Stadium,45666
+497,AS Roma,ROM,135,Serie A,2022,910,Stadio Olimpico,68530
+498,Sampdoria,SAM,135,Serie A,2022,905,Stadio Comunale Luigi Ferraris,36703
+499,Atalanta,ATA,135,Serie A,2022,879,Gewiss Stadium,21300
+500,Bologna,BOL,135,Serie A,2022,881,Stadio Renato Dall'Ara,39279
+502,Fiorentina,FIO,135,Serie A,2022,902,Stadio Artemio Franchi,43147
+503,Torino,TOR,135,Serie A,2022,943,Stadio Olimpico Grande Torino,27958
+504,Verona,VER,135,Serie A,2022,890,Stadio Marc'Antonio Bentegodi,39211
+505,Inter,INT,135,Serie A,2022,907,Stadio Giuseppe Meazza,80018
+511,Empoli,EMP,135,Serie A,2022,896,Stadio Carlo Castellani,16284
+514,Salernitana,SAL,135,Serie A,2022,933,Stadio Arechi,37245
+515,Spezia,SPE,135,Serie A,2022,939,Stadio Alberto Picco,11512
+520,Cremonese,CRE,135,Serie A,2022,894,Stadio Giovanni Zini,20034
+867,Lecce,LEC,135,Serie A,2022,911,Stadio Comunale Via del Mare,33876
+1579,Monza,MON,135,Serie A,2022,12086,U-Power Stadium,18568
+194,Ajax,AJA,88,Eredivisie,2022,1117,Johan Cruijff Arena,54990
+196,Excelsior,EXC,88,Eredivisie,2022,2901,Van Donge & De Roo Stadion,4500
+197,PSV Eindhoven,PSV,88,Eredivisie,2022,1143,Philips Stadion,36150
+200,Vitesse,VIT,88,Eredivisie,2022,1155,GelreDome,25500
+201,AZ Alkmaar,ALK,88,Eredivisie,2022,1119,AFAS Stadion,19500
+202,Groningen,GRO,88,Eredivisie,2022,12276,Euroborg,22579
+205,Fortuna Sittard,SIT,88,Eredivisie,2022,1129,Fortuna Sittard Stadion,12500
+207,Utrecht,UTR,88,Eredivisie,2022,1154,Stadion Galgenwaard,23750
+208,Emmen,EMM,88,Eredivisie,2022,10504,De Oude Meerdijk,8600
+209,Feyenoord,FEY,88,Eredivisie,2022,1128,Stadion Feijenoord,47625
+210,Heerenveen,HEE,88,Eredivisie,2022,1132,Abe Lenstra Stadion,27224
+410,GO Ahead Eagles,EAG,88,Eredivisie,2022,1130,De Adelaarshorst,10400
+413,NEC Nijmegen,NIJ,88,Eredivisie,2022,1140,Goffertstadion,12501
+415,Twente,TWE,88,Eredivisie,2022,1153,De Grolsch Veste,30205
+416,FC Volendam,VOL,88,Eredivisie,2022,1156,Kras Stadion,6984
+417,Waalwijk,WAA,88,Eredivisie,2022,1144,Mandemakers Stadion,7508
+420,Cambuur,CAM,88,Eredivisie,2022,12680,Cambuur Stadion,11230
+426,Sparta Rotterdam,SPA,88,Eredivisie,2022,10505,Sparta-Stadion Het Kasteel,11026
+529,Barcelona,BAR,140,La Liga,2022,18630,Spotify Camp Nou,99787
+530,Atletico Madrid,MAD,140,La Liga,2022,19217,Estádio Cívitas Metropolitano,68456
+531,Athletic Club,BIL,140,La Liga,2022,1460,San Mamés Barria,53289
+532,Valencia,VAL,140,La Liga,2022,1497,Estadio de Mestalla,55000
+533,Villarreal,VIL,140,La Liga,2022,1498,Estadio de la Cerámica,24500
+536,Sevilla,SEV,140,La Liga,2022,1494,Estadio Ramón Sánchez Pizjuán,48649
+538,Celta Vigo,CEL,140,La Liga,2022,1467,Abanca-Balaídos,31800
+540,Espanyol,ESP,140,La Liga,2022,1474,RCDE Stadium,40423
+541,Real Madrid,REA,140,La Liga,2022,1456,Estadio Santiago Bernabéu,85454
+543,Real Betis,BET,140,La Liga,2022,1489,Estadio Benito Villamarín,60721
+546,Getafe,GET,140,La Liga,2022,1476,Coliseum Alfonso Pérez,17393
+547,Girona,GIR,140,La Liga,2022,1478,Estadi Municipal de Montilivi,14500
+548,Real Sociedad,RSO,140,La Liga,2022,1491,Reale Arena,39500
+720,Valladolid,VAL,140,La Liga,2022,1492,Estadio Municipal José Zorrilla,26512
+723,Almeria,ALM,140,La Liga,2022,19216,Power Horse Stadium – Estadio de los Juegos Mediterráneos,21350
+724,Cadiz,CAD,140,La Liga,2022,11915,Estadio Nuevo Mirandilla,22000
+727,Osasuna,OSA,140,La Liga,2022,1486,Estadio El Sadar,23576
+728,Rayo Vallecano,RAY,140,La Liga,2022,1488,Estadio de Vallecas,15500
+797,Elche,ELC,140,La Liga,2022,1473,Estadio Manuel Martínez Valero,36017
+798,Mallorca,MAL,140,La Liga,2022,12597,Visit Mallorca Estadi,23142
+40,Liverpool,LIV,2,UEFA Champions League,2022,550,Anfield,55212
+47,Tottenham,TOT,2,UEFA Champions League,2022,593,Tottenham Hotspur Stadium,62850
+49,Chelsea,CHE,2,UEFA Champions League,2022,519,Stamford Bridge,41841
+50,Manchester City,MAC,2,UEFA Champions League,2022,555,Etihad Stadium,55097
+81,Marseille,MAR,2,UEFA Champions League,2022,12678,Stade Orange Vélodrome,67394
+85,Paris Saint Germain,PAR,2,UEFA Champions League,2022,671,Parc des Princes,47929
+91,Monaco,MON,2,UEFA Champions League,2022,659,Stade Louis II,18523
+157,Bayern Munich,BAY,2,UEFA Champions League,2022,700,Allianz Arena,75000
+165,Borussia Dortmund,DOR,2,UEFA Champions League,2022,19381,SIGNAL IDUNA PARK,81365
+168,Bayer Leverkusen,BAY,2,UEFA Champions League,2022,699,BayArena,30210
+169,Eintracht Frankfurt,EIN,2,UEFA Champions League,2022,10491,Deutsche Bank Park,52300
+173,RB Leipzig,LEI,2,UEFA Champions League,2022,738,Red Bull Arena,47069
+194,Ajax,AJA,2,UEFA Champions League,2022,1117,Johan Cruijff Arena,54990
+197,PSV Eindhoven,PSV,2,UEFA Champions League,2022,1143,Philips Stadion,36150
+211,Benfica,BEN,2,UEFA Champions League,2022,1265,Estádio do Sport Lisboa e Benfica (da Luz),65647
+212,FC Porto,POR,2,UEFA Champions League,2022,1286,Estádio Do Dragão,50399
+228,Sporting CP,SPO,2,UEFA Champions League,2022,1293,Estádio José Alvalade,50466
+247,Celtic,CEL,2,UEFA Champions League,2022,1386,Celtic Park,60832
+257,Rangers,RAN,2,UEFA Champions League,2022,1401,Ibrox Stadium,51082
+278,Vikingur Reykjavik,VIK,2,UEFA Champions League,2022,831,Víkingsvöllur,1613
+327,Bodo/Glimt,BOD,2,UEFA Champions League,2022,1175,Aspmyra Stadion,8270
+347,Lech Poznan,LEC,2,UEFA Champions League,2022,18626,Stadion Poznań,43269
+354,The New Saints,TNS,2,UEFA Champions League,2022,1684,Park Hall Stadium,2000
+375,Malmo FF,MAL,2,UEFA Champions League,2022,1518,Eleda Stadion,24148
+392,Shakhter Soligorsk,SOL,2,UEFA Champions League,2022,167,Stadyen Budaŭnik (Stroitel'),4200
+397,FC Midtjylland,MID,2,UEFA Champions League,2022,453,MCH Arena,11809
+400,FC Copenhagen,COP,2,UEFA Champions League,2022,11600,Parken,38065
+489,AC Milan,MIL,2,UEFA Champions League,2022,907,Stadio Giuseppe Meazza,80018
+492,Napoli,NAP,2,UEFA Champions League,2022,11904,Stadio Diego Armando Maradona,60240
+496,Juventus,JUV,2,UEFA Champions League,2022,909,Allianz Stadium,45666
+505,Inter,INT,2,UEFA Champions League,2022,907,Stadio Giuseppe Meazza,80018
+529,Barcelona,BAR,2,UEFA Champions League,2022,18630,Spotify Camp Nou,99787
+530,Atletico Madrid,MAD,2,UEFA Champions League,2022,19217,Estádio Cívitas Metropolitano,68456
+536,Sevilla,SEV,2,UEFA Champions League,2022,1494,Estadio Ramón Sánchez Pizjuán,48649
+541,Real Madrid,REA,2,UEFA Champions League,2022,1456,Estadio Santiago Bernabéu,85454
+550,Shakhtar Donetsk,SHA,2,UEFA Champions League,2022,1593,NSK Olimpijs'kyj,70050
+552,Maribor,MAR,2,UEFA Champions League,2022,1441,Ljudski vrt,12994
+553,Olympiakos Piraeus,OLY,2,UEFA Champions League,2022,775,Stadio Georgios Karaiskáki,33296
+556,Qarabag,KAR,2,UEFA Champions League,2022,5799,Tofiq Bəhramov adına Respublika stadionu,31850
+566,Ludogorets,LUD,2,UEFA Champions League,2022,10547,Huvepharma Arena,10422
+567,Plzen,PLZ,2,UEFA Champions League,2022,438,Doosan Aréna,12500
+568,Sheriff Tiraspol,SHE,2,UEFA Champions League,2022,1093,Bolshaya Sportivnaya Arena,13460
+569,Club Brugge KV,CLU,2,UEFA Champions League,2022,176,Jan Breydelstadion,29062
+571,Red Bull Salzburg,SAL,2,UEFA Champions League,2022,148,Red Bull Arena,31895
+572,Dynamo Kyiv,DIN,2,UEFA Champions League,2022,1593,NSK Olimpijs'kyj,70050
+578,F91 Dudelange,,2,UEFA Champions League,2022,1033,Stade Jos Nosbaum,2558
+583,Linfield,LIN,2,UEFA Champions League,2022,1971,Windsor Park,18614
+586,FK Zalgiris Vilnius,ZAL,2,UEFA Champions League,2022,1030,Vilniaus LFF stadionas,5422
+588,Zrinjski,ZRI,2,UEFA Champions League,2022,202,Stadion Bijeli Brijeg,20000
+598,FK Crvena Zvezda,CRV,2,UEFA Champions League,2022,1406,Stadion Rajko Mitić,51862
+602,Apollon Limassol,APO,2,UEFA Champions League,2022,433,Tsirion Athlítiko Kentro,13331
+611,Fenerbahce,FEN,2,UEFA Champions League,2022,1581,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,53586
+614,AEK Larnaca,LAR,2,UEFA Champions League,2022,430,AEK Arena - George Karapatakis,8000
+620,Dinamo Zagreb,ZAG,2,UEFA Champions League,2022,412,Stadion Maksimir,37168
+637,Sturm Graz,STU,2,UEFA Champions League,2022,150,Merkur Arena,16764
+649,HJK helsinki,HJK,2,UEFA Champions League,2022,615,Bolt Arena,10770
+651,Ferencvarosi TC,FER,2,UEFA Champions League,2022,799,Groupama Aréna,23698
+652,Shamrock Rovers,SHA,2,UEFA Champions League,2022,865,Tallaght Stadium,8000
+656,Slovan Bratislava,SLO,2,UEFA Champions League,2022,11914,Štadión Tehelné pole,22500
+667,Lincoln Red Imps FC,LIN,2,UEFA Champions League,2022,760,Victoria Stadium,5000
+673,Sutjeska,SUT,2,UEFA Champions League,2022,1098,Stadion Kraj Bistrice,6180
+694,Tirana,TIR,2,UEFA Champions League,2022,4,Stadiumi Selman Stërmasi,12724
+701,KI Klaksvik,,2,UEFA Champions League,2022,610,Injector Arena,4000
+705,Dinamo Batumi,DIN,2,UEFA Champions League,2022,2300,Chele Arena,6000
+709,Pyunik Yerevan,PYU,2,UEFA Champions League,2022,121,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,14530
+783,FC Zurich,ZUR,2,UEFA Champions League,2022,1533,Stadion Letzigrund,26104
+998,Trabzonspor,TRA,2,UEFA Champions League,2022,19221,Şenol Güneş Spor Kompleksi,41513
+1393,Union St. Gilloise,GIL,2,UEFA Champions League,2022,194,Stade Joseph Mariën,9400
+2246,CFR 1907 Cluj,CLU,2,UEFA Champions League,2022,1311,Stadionul Dr. Constantin Rădulescu,23500
+2249,La Fiorita,FIO,2,UEFA Champions League,2022,1359,Campo Sportivo di Montegiardino,500
+2259,FK Tobol Kostanay,TOB,2,UEFA Champions League,2022,991,Ortalıq Stadion,8432
+2265,Shkupi 1927,SHK,2,UEFA Champions League,2022,1801,Stadion Čair,7000
+2273,FC Levadia Tallinn,LEV,2,UEFA Champions League,2022,605,A. Le Coq Arena,14405
+3342,Inter Club d'Escaldes,,2,UEFA Champions League,2022,30,Centre d'Entrenament de la FAF 1,2000
+3884,Hibernians,HIB,2,UEFA Champions League,2022,12090,Tony Bezzina Stadium,8000
+4160,Rīgas FS,,2,UEFA Champions League,2022,12721,RFS Jāņa Skredeļa sporta komplekss sintētiskais laukums,650
+4195,Maccabi Haifa,MAC,2,UEFA Champions League,2022,868,Sammy Ofer Stadium,30820
+12733,Ballkani,,2,UEFA Champions League,2022,8093,Stadiumi i qytetit Suharekë,1500
+33,Manchester United,MUN,3,UEFA Europa League,2022,556,Old Trafford,76212
+42,Arsenal,ARS,3,UEFA Europa League,2022,494,Emirates Stadium,60383
+83,Nantes,NAN,3,UEFA Europa League,2022,662,Stade de la Beaujoire - Louis Fonteneau,38285
+91,Monaco,MON,3,UEFA Europa League,2022,659,Stade Louis II,18523
+94,Rennes,REN,3,UEFA Europa League,2022,680,Roazhon Park,31127
+160,SC Freiburg,FRE,3,UEFA Europa League,2022,12717,Europa-Park Stadion,34700
+168,Bayer Leverkusen,BAY,3,UEFA Europa League,2022,699,BayArena,30210
+182,Union Berlin,UNI,3,UEFA Europa League,2022,748,Stadion An der Alten Försterei,22467
+194,Ajax,AJA,3,UEFA Europa League,2022,1117,Johan Cruijff Arena,54990
+197,PSV Eindhoven,PSV,3,UEFA Europa League,2022,1143,Philips Stadion,36150
+209,Feyenoord,FEY,3,UEFA Europa League,2022,1128,Stadion Feijenoord,47625
+217,SC Braga,BRA,3,UEFA Europa League,2022,1291,Estádio Municipal de Braga,30286
+228,Sporting CP,SPO,3,UEFA Europa League,2022,1293,Estádio José Alvalade,50466
+254,Heart OF Midlothian,HEA,3,UEFA Europa League,2022,1393,Tynecastle Park,20099
+327,Bodo/Glimt,BOD,3,UEFA Europa League,2022,1175,Aspmyra Stadion,8270
+375,Malmo FF,MAL,3,UEFA Europa League,2022,1518,Eleda Stadion,24148
+397,FC Midtjylland,MID,3,UEFA Europa League,2022,453,MCH Arena,11809
+487,Lazio,LAZ,3,UEFA Europa League,2022,910,Stadio Olimpico,68530
+496,Juventus,JUV,3,UEFA Europa League,2022,909,Allianz Stadium,45666
+497,AS Roma,ROM,3,UEFA Europa League,2022,910,Stadio Olimpico,68530
+529,Barcelona,BAR,3,UEFA Europa League,2022,18630,Spotify Camp Nou,99787
+536,Sevilla,SEV,3,UEFA Europa League,2022,1494,Estadio Ramón Sánchez Pizjuán,48649
+543,Real Betis,BET,3,UEFA Europa League,2022,1489,Estadio Benito Villamarín,60721
+548,Real Sociedad,RSO,3,UEFA Europa League,2022,1491,Reale Arena,39500
+550,Shakhtar Donetsk,SHA,3,UEFA Europa League,2022,1593,NSK Olimpijs'kyj,70050
+552,Maribor,MAR,3,UEFA Europa League,2022,1441,Ljudski vrt,12994
+553,Olympiakos Piraeus,OLY,3,UEFA Europa League,2022,775,Stadio Georgios Karaiskáki,33296
+556,Qarabag,KAR,3,UEFA Europa League,2022,5799,Tofiq Bəhramov adına Respublika stadionu,31850
+566,Ludogorets,LUD,3,UEFA Europa League,2022,10547,Huvepharma Arena,10422
+568,Sheriff Tiraspol,SHE,3,UEFA Europa League,2022,1093,Bolshaya Sportivnaya Arena,13460
+571,Red Bull Salzburg,SAL,3,UEFA Europa League,2022,148,Red Bull Arena,31895
+572,Dynamo Kyiv,DIN,3,UEFA Europa League,2022,1593,NSK Olimpijs'kyj,70050
+573,FK Partizan,PAR,3,UEFA Europa League,2022,1424,Stadion Partizana,32710
+578,F91 Dudelange,,3,UEFA Europa League,2022,1033,Stade Jos Nosbaum,2558
+583,Linfield,LIN,3,UEFA Europa League,2022,1971,Windsor Park,18614
+586,FK Zalgiris Vilnius,ZAL,3,UEFA Europa League,2022,1030,Vilniaus LFF stadionas,5422
+598,FK Crvena Zvezda,CRV,3,UEFA Europa League,2022,1406,Stadion Rajko Mitić,51862
+601,Austria Vienna,AUS,3,UEFA Europa League,2022,136,Generali Arena,18944
+602,Apollon Limassol,APO,3,UEFA Europa League,2022,433,Tsirion Athlítiko Kentro,13331
+611,Fenerbahce,FEN,3,UEFA Europa League,2022,1581,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,53586
+614,AEK Larnaca,LAR,3,UEFA Europa League,2022,430,AEK Arena - George Karapatakis,8000
+631,Gent,GEN,3,UEFA Europa League,2022,180,GHELAMCO-arena,20000
+637,Sturm Graz,STU,3,UEFA Europa League,2022,150,Merkur Arena,16764
+649,HJK helsinki,HJK,3,UEFA Europa League,2022,615,Bolt Arena,10770
+651,Ferencvarosi TC,FER,3,UEFA Europa League,2022,799,Groupama Aréna,23698
+652,Shamrock Rovers,SHA,3,UEFA Europa League,2022,865,Tallaght Stadium,8000
+656,Slovan Bratislava,SLO,3,UEFA Europa League,2022,11914,Štadión Tehelné pole,22500
+709,Pyunik Yerevan,PYU,3,UEFA Europa League,2022,121,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,14530
+783,FC Zurich,ZUR,3,UEFA Europa League,2022,1533,Stadion Letzigrund,26104
+998,Trabzonspor,TRA,3,UEFA Europa League,2022,19221,Şenol Güneş Spor Kompleksi,41513
+1002,Sivasspor,SIV,3,UEFA Europa League,2022,1589,Yeni Sivas 4 Eylül Stadyumu,27532
+1393,Union St. Gilloise,GIL,3,UEFA Europa League,2022,194,Stade Joseph Mariën,9400
+2073,Silkeborg,SIL,3,UEFA Europa League,2022,459,JYSK park,10000
+2265,Shkupi 1927,SHK,3,UEFA Europa League,2022,1801,Stadion Čair,7000
+3402,Omonia Nicosia,OMO,3,UEFA Europa League,2022,432,Neo GSP,22859
+3623,Dnipro-1,,3,UEFA Europa League,2022,2426,Dnipro Arena,31003
+3719,Slovácko,SLO,3,UEFA Europa League,2022,2501,Městský fotbalový stadion Miroslava Valenty,8121
